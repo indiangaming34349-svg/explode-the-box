@@ -1,0 +1,16 @@
+# Godot 4+
+.godot/
+.import/
+.export/
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
